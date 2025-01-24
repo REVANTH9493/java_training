@@ -1,5 +1,5 @@
-Java Basics
-Introduction
+#Java Basics
+#Introduction
 Java is a high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle). It is platform-independent due to its "Write Once, Run Anywhere" (WORA) capability, enabled by the Java Virtual Machine (JVM).
 
 Key Features of Java
